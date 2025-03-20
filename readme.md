@@ -1,6 +1,13 @@
-🌟 Consulta de Stats de Pokémons com API 🌟
+## 🌟 Consulta de Stats de Pokémons com API 🌟
 
+📸 Preview do Projeto
+Confira abaixo como o projeto está visualmente:
 
+🎨 Interface do Projeto
+![Imagem do Projeto](/assets/img/pokedex.png)
+
+📊 Stats dos Pokémons
+![Imagem das Stats](/assets/img/pokedexStats.png)
 
 ✨ Sobre o Projeto
 
@@ -8,13 +15,13 @@ Este é um projeto de aprendizado focado no uso de JavaScript (JS) para consumir
 
 🔧 Tecnologias Utilizadas
 
- - Manipulação da API e lógica do projeto
+- Manipulação da API e lógica do projeto
 
- - Estrutura da página
+- Estrutura da página
 
- - Estilização e responsividade
+- Estilização e responsividade
 
- - Fonte dos dados dos Pokémons
+- Fonte dos dados dos Pokémons
 
 🎉 Funcionalidades
 
