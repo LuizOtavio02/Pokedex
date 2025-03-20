@@ -1,23 +1,23 @@
-#### 🌟 Consulta de Stats de Pokémons com API 🌟
+# 🌟 Consulta de Stats de Pokémons com API 🌟
 
-# 📸 Preview do Projeto
+### 📸 Preview do Projeto
 Confira abaixo como o projeto está visualmente:
 
-# 🎨 Interface do Projeto
+### 🎨 Interface do Projeto
 
 
 ![Imagem do Projeto](/assets/img/pokedex.png)
 
-# 📊 Stats dos Pokémons
+### 📊 Stats dos Pokémons
 
 
 ![Imagem das Stats](/assets/img/pokedexStats.png)
 
-✨ Sobre o Projeto
+### ✨ Sobre o Projeto
 
 Este é um projeto de aprendizado focado no uso de JavaScript (JS) para consumir e manipular dados de uma API. O objetivo principal é buscar e exibir as estatísticas dos Pokémons utilizando a PokeAPI. Além disso, utilizei HTML e CSS para criar um layout bonito e responsivo, proporcionando uma experiência visual agradável para o usuário.
 
-🔧 Tecnologias Utilizadas
+### 🔧 Tecnologias Utilizadas
 
 - Manipulação da API e lógica do projeto
 
@@ -27,7 +27,7 @@ Este é um projeto de aprendizado focado no uso de JavaScript (JS) para consumir
 
 - Fonte dos dados dos Pokémons
 
-🎉 Funcionalidades
+### 🎉 Funcionalidades
 
 ✅ Busca de Pokémons
 
@@ -35,11 +35,11 @@ Este é um projeto de aprendizado focado no uso de JavaScript (JS) para consumir
 
 ✅ Layout responsivo para diferentes dispositivos
 
-📚 Motivação
+### 📚 Motivação
 
 Este projeto foi desenvolvido como parte do meu aprendizado no curso de JavaScript da DIO (Digital Innovation One). Durante o desenvolvimento, pude aprimorar minhas habilidades em consumo de APIs, manipulação do DOM e estilização responsiva. Pretendo continuar estudando para aplicar mais melhorias e adicionar novas funcionalidades ao projeto.
 
-🚀 Melhorias Futuras
+### 🚀 Melhorias Futuras
 ✨ Busca de Pokémons por nome ou ID
 
 ✨ Adicionar animações e efeitos visuais
@@ -50,7 +50,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado no curso de JavaScri
 
 ✨ Criar um histórico de buscas
 
-🔄 Como Executar o Projeto
+### 🔄 Como Executar o Projeto
 
 Clone este repositório:
 
@@ -58,6 +58,6 @@ Acesse a pasta do projeto:
 
 Abra o arquivo index.html no navegador
 
-👨‍💻 Contribuição
+### 👨‍💻 Contribuição
 
 Caso queira contribuir, fique à vontade para fazer um fork do repositório e enviar pull requests com melhorias!
