@@ -1,12 +1,16 @@
-## 🌟 Consulta de Stats de Pokémons com API 🌟
+#### 🌟 Consulta de Stats de Pokémons com API 🌟
 
-📸 Preview do Projeto
+# 📸 Preview do Projeto
 Confira abaixo como o projeto está visualmente:
 
-🎨 Interface do Projeto
+# 🎨 Interface do Projeto
+
+
 ![Imagem do Projeto](/assets/img/pokedex.png)
 
-📊 Stats dos Pokémons
+# 📊 Stats dos Pokémons
+
+
 ![Imagem das Stats](/assets/img/pokedexStats.png)
 
 ✨ Sobre o Projeto
